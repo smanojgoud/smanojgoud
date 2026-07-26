@@ -174,7 +174,7 @@ https://github.com/smanojgoud
 - 💡 Passionate about **Full Stack Development**, AI & Data Science
 - 📚 Completed **10+ certifications** on Infosys Springboard — *Virtual Internship 7.0 (Python TechStack)*
 - 🌱 Currently sharpening skills in Python, Java, Databases & Software Engineering practices (Agile/Scrum)
-- 📍 Based in Hyderabad | Open to opportunities
+- 📍 Based in Nandyal| Open to opportunities
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/s-manoj-goud-1aaa05355/)
 
 ---
