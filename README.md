@@ -1,3 +1,5 @@
+<!--
+manoj repo
 <h1 align="center">Hi 👋, I'm S. MANOJ GOUD</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | Python Enthusiast | AI & Data Science Learner</h3>
 
@@ -145,3 +147,176 @@ https://github.com/smanojgoud
 > "Learning never stops. Every project is another step toward becoming a better developer."
 
 ⭐ If you like my projects, don't forget to star them!
+-->
+#claude
+<div align="center">
+
+<!-- Gradient / animated typing header -->
+<a href="https://github.com/smanojgoud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Manoj+Goud;Full+Stack+Developer+%7C+Python+%26+Java+Enthusiast;Building+%2C+Learning+%2C+and+Leveling+Up+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smanojgoud&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/smanojgoud?label=Followers&style=for-the-badge&color=4361EE" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4CC9F0?style=for-the-badge" alt="Open to work" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Student at **Vellore Institute of Technology**, Vellore, Tamil Nadu
+- 💡 Passionate about **Full Stack Development**, AI & Data Science
+- 📚 Completed **10+ certifications** on Infosys Springboard — *Virtual Internship 7.0 (Python TechStack)*
+- 🌱 Currently sharpening skills in Python, Java, Databases & Software Engineering practices (Agile/Scrum)
+- 📍 Based in Hyderabad | Open to opportunities
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/s-manoj-goud-1aaa05355/)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-13AA52?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=smanojgoud&show_icons=true&theme=radical&hide_border=true&title_color=F72585&icon_color=4CC9F0&text_color=ffffff&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanojgoud&layout=compact&theme=radical&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanojgoud&theme=radical&hide_border=true&background=0d1117&ring=F72585&fire=4CC9F0&currStreakLabel=4CC9F0" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smanojgoud&theme=react-dark&hide_border=true&bg_color=0d1117&color=4CC9F0&line=F72585&point=ffffff" width="95%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smanojgoud/smanojgoud/output/github-contribution-grid-snake-dark.svg" alt="snake eating github contributions" width="95%" />
+</p>
+
+<details>
+<summary>⚙️ <b>One-time setup to activate the snake animation</b> (click to expand)</summary>
+
+<br>
+
+The snake image above needs a small GitHub Action to render it from your contribution graph. Create a file at **`.github/workflows/snake.yml`** in this same `smanojgoud/smanojgoud` repo, paste the workflow below, then run it once from the **Actions** tab (or just push a commit) — after that it auto-refreshes every 12 hours.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake game from GitHub contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: smanojgoud
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push the generated files to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+That's it — no separate file needed anywhere else, it all lives inside this repo.
+
+</details>
+
+---
+
+### 🏆 Certifications & Highlights
+
+| Track | Courses Completed |
+|---|---|
+| 🐍 **Python** | Basics of Python, Python Foundation Certification, Programming Fundamentals I & II, OOP using Python |
+| 🤖 **AI & Data Science** | Introduction to Artificial Intelligence, Fundamentals of Data Science |
+| ☕ **Java** | Programming Fundamentals using Java |
+| 🗄️ **Databases** | DBMS Part 1 & 2, Introduction to NoSQL Databases |
+| 🔁 **Software Engineering** | Agile Scrum in Practice, Software Engineering & Agile Development |
+
+🎖️ *10+ certifications completed via **Infosys Springboard – Virtual Internship 7.0 (Python TechStack)***
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/smanojgoud/project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=project&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/smanojgoud/Agile-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=Agile-lab&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/smanojgoud/Agile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=Agile&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/smanojgoud/internshipproject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=internshipproject&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-manoj-goud-1aaa05355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/smanojgoud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
