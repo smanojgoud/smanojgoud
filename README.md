@@ -148,7 +148,7 @@ https://github.com/smanojgoud
 
 ⭐ If you like my projects, don't forget to star them!
 -->
-#claude
+
 <div align="center">
 
 <!-- Gradient / animated typing header -->
