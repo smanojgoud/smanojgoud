@@ -225,60 +225,6 @@ https://github.com/smanojgoud
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smanojgoud/smanojgoud/output/github-contribution-grid-snake-dark.svg" alt="snake eating github contributions" width="95%" />
-</p>
-
-<details>
-<summary>⚙️ <b>One-time setup to activate the snake animation</b> (click to expand)</summary>
-
-<br>
-
-The snake image above needs a small GitHub Action to render it from your contribution graph. Create a file at **`.github/workflows/snake.yml`** in this same `smanojgoud/smanojgoud` repo, paste the workflow below, then run it once from the **Actions** tab (or just push a commit) — after that it auto-refreshes every 12 hours.
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake game from GitHub contributions
-        uses: Platane/snk@v3
-        with:
-          github_user_name: smanojgoud
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push the generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-That's it — no separate file needed anywhere else, it all lives inside this repo.
-
-</details>
-
----
-
 ### 🏆 Certifications & Highlights
 
 | Track | Courses Completed |
@@ -293,18 +239,6 @@ That's it — no separate file needed anywhere else, it all lives inside this re
 
 ---
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/smanojgoud/project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=project&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/smanojgoud/Agile-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=Agile-lab&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/smanojgoud/Agile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=Agile&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/smanojgoud/internshipproject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smanojgoud&repo=internshipproject&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
