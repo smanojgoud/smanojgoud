@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student at **Vellore Institute of Technology (VIT), Chennai**
+🎓 Computer Science Student at **Vellore Institute of Technology (VIT), Vellore**
 
 💻 Passionate about **Full Stack Development**, **Python**, **Artificial Intelligence**, and **Software Engineering**.
 
